@@ -195,6 +195,12 @@ $this->fontdata = array(
 	"daibannasilbook" => array(/* New Tai Lue */
 		'R' => "DBSILBR.ttf",
 	),
+	"thsarabunnew" => array(/* Thai */
+		'R' => "THSarabunNew.ttf",
+		'B' => "THSarabunNew-Bold.ttf",
+		'I' => "THSarabunNew-Italic.ttf",
+		'BI' => "THSarabunNew-BoldItalic.ttf",
+    ),
 	"garuda" => array(/* Thai */
 		'R' => "Garuda.ttf",
 		'B' => "Garuda-Bold.ttf",
