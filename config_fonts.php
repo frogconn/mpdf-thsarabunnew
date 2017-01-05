@@ -304,7 +304,7 @@ $this->sans_fonts = array('dejavusanscondensed', 'sans', 'sans-serif', 'cursive'
 	'arial', 'helvetica', 'verdana', 'geneva', 'lucida', 'arialnarrow', 'arialblack', 'arialunicodems',
 	'franklin', 'franklingothicbook', 'tahoma', 'garuda', 'calibri', 'trebuchet', 'lucidagrande', 'microsoftsansserif',
 	'trebuchetms', 'lucidasansunicode', 'franklingothicmedium', 'albertusmedium', 'xbriyaz', 'albasuper', 'quillscript',
-	'humanist777', 'humanist777black', 'humanist777light', 'futura', 'hobo', 'segoeprint'
+	'humanist777', 'humanist777black', 'humanist777light', 'futura', 'hobo', 'segoeprint', 'thsarabunnew'
 );
 
 $this->serif_fonts = array('dejavuserifcondensed', 'serif', 'dejavuserif', 'freeserif', 'liberationserif',
